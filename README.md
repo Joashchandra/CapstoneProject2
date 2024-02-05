@@ -1,4 +1,4 @@
-# **Read Me**
+# **Supermarket Marketing Campaign Analysis**
 This dataset is about Marketing Campaign in a Supermarket where the acceptance rate of their campaign is low. 
 
 # **Background**
